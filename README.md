@@ -1,6 +1,6 @@
 # Historical Markets
 
-This project contains code and analysis for understanding the epxansion of historical markets.
+This project contains code and analysis for understanding the expansion of historical markets.
 
 ## Project Structure
 
@@ -17,14 +17,6 @@ project-root/
 
 ## Setup
 
-1. Clone the repository:
+1. Download data files (request from authors)
 
-```bash
-git clone https://github.com/frankielin/historical_markets.git
-cd yourrepo 
-
-```
-
-2. Download data files (request from authors)
-
-3. Run code scripts
+2. Run code scripts
