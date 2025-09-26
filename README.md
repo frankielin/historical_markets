@@ -1,5 +1,6 @@
 # Historical Markets
 Authors: Zohal Barsi and Frankie Lin
+
 This project contains code and analysis for understanding the expansion of historical markets.
 
 ## Project Structure
