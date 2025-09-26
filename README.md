@@ -1,5 +1,5 @@
 # Historical Markets
-
+Authors: Zohal Barsi and Frankie Lin
 This project contains code and analysis for understanding the expansion of historical markets.
 
 ## Project Structure
@@ -8,8 +8,8 @@ project-root/
 ├── README.md
 ├── .gitignore
 ├── code/           # Code and analysis scripts
-└── data/
-    └── cleaned/    # Cleaned data examples (small files may be included)
+└── data/           # All data (including raw files, request from authors)
+    └── cleaned/    # Cleaned data 
 ```
 
 - `code/`: Contains all analysis scripts (Python + R).  
