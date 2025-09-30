@@ -9,12 +9,14 @@ project-root/
 ├── README.md
 ├── .gitignore
 ├── code/           # Code and analysis scripts
-└── data/           # All data (including raw files, request from authors)
-    └── cleaned/    # Cleaned data 
+└── data/           # All data (request from authors)
+    ├── raw/      # Raw data
+    └── clean/    # Cleaned data 
 ```
 
 - `code/`: Contains all analysis scripts (Python + R).  
-- `data/`: Place raw datasets here locally (Contact for access to data)
+- `data/`: Contains all data files (Contact for access to data)
+- `data/raw/`: Contains raw data from various sources
 - `data/cleaned/`: Contains processed data from `code/`
 
 ## Setup
